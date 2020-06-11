@@ -1,5 +1,5 @@
 module.exports = (config) => {
-    config.setTemplateFormats(['njk', 'md', 'yml'])
+    config.setTemplateFormats(['njk', 'md', 'yml', 'jpg', 'png'])
 
     config.setDataDeepMerge(true)
 
