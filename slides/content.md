@@ -83,3 +83,22 @@ Some other parts of a website: layout, styles, widgets, business logic.
 
 Traditional CMS will store content in a database and will use a backend to construct webpages at runtime.
 
+---
+
+# Netlify CMS
+
+## So what's up with [Netlify CMS](https://www.netlifycms.org/)?
+
+Netlify CMS takes a different approach.
+
+- *Content as code*. Content is stored in the git repository, just like the code.
+- Integrates seamlessly with the Netlify build system.
+- Changes in content automatically commit onto the git repository, which then triggers a build in Netlify.
+
+---
+
+# Netlify CMS
+
+Example:
+
+- https://peter554-netlifycmsdemo.netlify.app/
