@@ -26,6 +26,15 @@ Content management for the jamstack era
 
 # Netlify & the jamstack
 
+Example:
+
+- https://app.netlify.com/sites/peter554-netlifycmsdemo
+- https://github.com/Peter554/netlifycmsdemo
+
+---
+
+# Netlify & the jamstack
+
 ## What is the [jamstack](https://jamstack.org/)?
 
 > Fast and secure sites and apps delivered by pre-rendering files and serving them directly from a CDN, removing the requirement to manage or run web servers.
@@ -46,15 +55,6 @@ Content management for the jamstack era
 - Security
 - SEO
 - Developer Experience
-
----
-
-# Netlify & the jamstack
-
-Example:
-
-- https://app.netlify.com/sites/peter554-netlifycmsdemo
-- https://github.com/Peter554/netlifycmsdemo
 
 ---
 
