@@ -30,6 +30,7 @@ Example:
 
 - https://app.netlify.com/sites/peter554-netlifycmsdemo
 - https://github.com/Peter554/netlifycmsdemo
+- https://peter554-netlifycmsdemo.netlify.app/
 
 ---
 
