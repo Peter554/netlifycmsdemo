@@ -80,6 +80,8 @@ Netlify CMS takes a different approach.
 - Integrates seamlessly with the Netlify build system.
 - Changes in content automatically commit onto the git repository, which then triggers a build in Netlify.
 
+This approach enables us to deploy a static site - all the benefits of jamstack!
+
 ---
 
 # How do I add Netlify CMS to my jamstack site?
