@@ -1,0 +1,15 @@
+:root {
+    font-size: 18px;
+}
+
+body {
+    width: 700px;
+    max-width: 100%;
+    padding: 2rem;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+img {
+    max-width: 100%;
+}

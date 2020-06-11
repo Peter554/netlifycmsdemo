@@ -5,13 +5,12 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>netlifycmsdemo</title>
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-        <link rel="stylesheet" href="/site.css">
     </head>
     <body>
-        {{ content | safe }}
+        <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
         <script>
             if (window.netlifyIdentity) {
-                window.netlifyIdentity.on('init', user => {
+                window.netlifyIdentity.on('init', (user) => {
                     if (!user) {
                         window.netlifyIdentity.on('login', () => {
                             document.location.href = '/admin'
