@@ -96,4 +96,6 @@ That's it!
 
 # Example
 
-- https://peter554-netlifycmsdemo.netlify.app
+- Netlify dashboard: https://app.netlify.com/sites/peter554-netlifycmsdemo
+- Code repository: https://github.com/Peter554/netlifycmsdemo
+- Live website: https://peter554-netlifycmsdemo.netlify.app
