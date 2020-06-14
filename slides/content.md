@@ -14,7 +14,7 @@ Content management for the jamstack era
 
 # What is [Netlify](https://www.netlify.com/)?
 
-- A platform for developing static sites with superpowers.
+- A platform for developing static sites with superpowers ("jamstack").
 
 .img-large[![](/media/netlify-workflow.png)]
 
