@@ -32,6 +32,8 @@ Content management for the jamstack era
 - [Netlify dashboard](https://app.netlify.com/sites/peter554-netlifycmsdemo)
 - [Live website](https://peter554-netlifycmsdemo.netlify.app)
 
+Make a code change. View the build in Netlify dashboard & the built site in live. 
+
 ---
 
 # What is the [jamstack](https://jamstack.org/)?
@@ -78,7 +80,7 @@ A traditional CMS will store content in a database, requiring a backend server t
 
 Netlify CMS takes a different approach.
 
-- *Content as code*. Content is stored in the git repository, just like the code.
+- **Content as code**. Content is stored in the git repository, just like the code. Including media using git large file storage.
 - Integrates seamlessly with the Netlify build system.
 - Changes in content automatically commit onto the git repository, which then triggers a build in Netlify.
 
@@ -95,8 +97,6 @@ Content authors don't need technical understanding of the code or git.
 
 `index.html` simply contains the Netlify CMS script. `config.yml` contains the configuration.
 
-That's it!
-
 ---
 
 # Example
@@ -104,3 +104,5 @@ That's it!
 - [Code repository](https://github.com/Peter554/netlifycmsdemo)
 - [Netlify dashboard](https://app.netlify.com/sites/peter554-netlifycmsdemo)
 - [Live website](https://peter554-netlifycmsdemo.netlify.app)
+
+Add a new post. View the resulting commit and the built site in live.
