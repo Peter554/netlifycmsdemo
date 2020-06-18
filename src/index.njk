@@ -4,6 +4,8 @@ layout: base-layout.njk
 
 <h2>Posts</h2>
 
+<p>Here's a list of all my posts!</p>
+
 <ul>
 {% for post in collections.post %}
     <li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
